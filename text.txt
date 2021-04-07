@@ -1,0 +1,20 @@
+There was an error parsing `Gemfile`:
+
+Gemfile 안에
+
+source 'https://rubygems.org'
+gem 'github-pages'
+
+으로 수정한 후
+bundle install
+
+webbrick 없는 경우
+bundle add webbrick
+
+이후 bundle exec jekyll serve
+
+###########################################
+
+왼쪽 네브바
+feature category
+config.yml
