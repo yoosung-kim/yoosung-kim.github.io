@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "[리뷰] 졸업프로젝트"
+title:  "[Face Detection]]"
 subtitle:   "Digital Twin Classroom"
 categories: graduationproject
 tags: graduationproject
 comments: true
-header-img: img/review/2019-04-02-review-book-hyperledger-fabric-2-Cover.png
+header-img: img/post_img/spatial.jpg
 ---
 
 ## 개요
