@@ -48,7 +48,8 @@ Virtual 3d 공간생성시에는 openGL에서 만든 webGL을 사용하기로 �
   const renderer = new THREE.WebGLRenderer({canvas});
 
   이런식으로 말이다!
-  기본 예제를 가져와 canvas에 움직이는 도형을 띄워보았다. 
+
+  전에 만들어둔 web page 내의 파란 canvas안에 움직이는 도형을 띄워보았다. 
   잘 작동이 된다. 이제 classroom을 띄워줄 canvas는 완성이 되었다~~
 
 
