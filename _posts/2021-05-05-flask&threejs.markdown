@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[flask & Three.js]"
+title:  "[Flask & Three.js]"
 subtitle:   "Digital Twin Classroom"
 categories: graduationproject
 tags: graduationproject
