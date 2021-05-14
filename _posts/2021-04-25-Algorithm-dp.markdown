@@ -10,10 +10,6 @@ comments: true
 ## 개요
 > Algorithm DP 기본기부터 공부한 내용을 담은 글입니다.
 
-- 목차
-	- [Algorithm DP]
-  
-
 
 ## Algorithm DP 기본기
 ---

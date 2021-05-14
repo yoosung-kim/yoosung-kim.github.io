@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[리뷰] JavaSpring"
+title:  "Spring Boot"
 subtitle:   "JavaSpring 공부"
 categories: JavaSpring
 tags: Spring boot
@@ -14,7 +14,6 @@ header-img: img/spring/springboot.PNG
 - 목차
 	- [Spring boot 시작하기에 앞서](#) 
 	- [Spring boot란](#) 
-	- [Spring boot 직접 해보기](#)
 
 
 ## Spring boot 공부하기에 앞서...
@@ -44,8 +43,12 @@ DB연결, 다른 응용프로그램과  상호작용 등 동적 기능 사용가
 ## Spring boot 란
 ---
  - Java spring을 공부하기 전에 먼저 Spring boot를 공부해 보기로 하였다. 우선 spring boot가 뭔가?  
-복잡한 설정없이 쉽고 빠르게 만들어주는 라이브러리입니다.  
-자주 사용되는 기본설정을 알아서 해줍니다.  
-pom.xml에 스프링부트 버젼을 입력하면 모든 라이브러리 버전을 알아서 다운해줍니다.  
-@EnableAutoConfiguration 어노테이션을 선언해서 스프링에서 자주 사용 했던 설정들을 알아서 등록해줍니다.  
-Tomcat을 내장하고 있어 @EnableAutoConfiguration 어노테이션이 선언 되어있는 클래스의 main()을 실행함으로써 서버를 구동시킬 수 있습니다.   
+1. 복잡한 설정없이 쉽고 빠르게 만들어주는 라이브러리입니다.  
+2. 자주 사용되는 기본설정을 알아서 해줍니다.   
+3. pom.xml에 스프링부트 버젼을 입력하면 모든 라이브러리 버전을 알아서 다운해줍니다.   
+4. @EnableAutoConfiguration 어노테이션을 선언해서 스프링에서 자주 사용 했던 설정들을 알아서 등록해줍니다.   
+5. Tomcat을 내장하고 있어 @EnableAutoConfiguration 어노테이션이 선언 되어있는 클래스의 main()을 실행함으로써 서버를 구동시킬 수 있습니다.  
+이렇게 정의할 수 있다.  
+
+
+다음 posting에서는 Spring boot & JPA 활용에 대해 다뤄보겠다.
